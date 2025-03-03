@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的简历</title>
+</head>
+<body>
+
+    <h1>我的简历</h1>
+
+    <table>
+        <tr>
+            <th>姓名</th>
+            <td>莫皓</td>
+        </tr>
+        <tr>
+            <th>性别</th>
+            <td>男</td>
+        </tr>
+        <tr>
+            <th>联系方式</th>
+            <td>手机:159xxxxxxxx<br>邮箱: 34xxxxxxxx@qq.com</td>
+        </tr>
+        <tr>
+            <th>教育背景</th>
+            <td>2023-2026 大学 重庆xxxxxxx，信息安全技术与应用，专科</td>
+        </tr>	
+        <tr>
+            <th>工作经历</th>
+            <td>2022-2024阿里巴巴：担任软件工程师<br>主要负责Web开发和后台服务的设计与实现。<br><p></p>
+		2022-2024腾讯：担任后端工程师<br>主要负责Web后端开发和后台服务的设计与实现。<br><p></p>	    
+		2022-2024长亭：担任红队工程师<br>再美国对中国制裁的时候 曾以一己之力 打穿美国白宫官网 插上中国国旗  养我国威
+	    </td>
+        </tr>
+        <tr>
+            <th>技能</th>
+            <td>熟练掌握HTML、CSS、JavaScript，了解C++编程，具备一定的团队合作和项目管理能力。</td>
+        </tr>
+        <tr>
+            <th>兴趣爱好</th>
+            <td>编程、旅行</td>
+        </tr>
+    </table>
+
+</body>
+</html>
