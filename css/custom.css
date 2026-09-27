@@ -1,0 +1,19 @@
+/* 页脚背景彻底改成深灰色，完美融入黑底 */
+#footer {
+  background-color: #1c1c1c !important;
+}
+
+/* 去掉页脚上方那层黑色的阴影遮罩（防止出现黑蓝过渡带） */
+#footer::before {
+  background: transparent !important;
+}
+
+/* 把页脚的文字颜色改成浅灰色，在黑灰背景上能看清 */
+#footer * {
+  color: #999 !important;
+}
+
+/* 顺便把右下角的设置齿轮和返回顶部的按钮背景也改成深灰色，更协调 */
+#rightside {
+  background: #1c1c1c !important;
+}
